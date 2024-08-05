@@ -1,0 +1,36 @@
+Project Title:
+HamroGatha-A Website for Community Tourism in Nepal
+
+Description:
+Community based tourism is tourism where the money earned directly benefits the community as a whole.With more and more tourists coming into Nepal everyday,there is a high chance of exploitation in various tourist attractions.Community tourism ensures that no other third-party will be benefitted by the tourists coming into a certain areas and that all earned resources directly go towards the local people.It also helps in distributing reliable information about the community's history,culture and natural resources because information needs to come directly from the locals.
+HamroGatha is a variation of a social media website that only focuses on creating dedicated spaces for community members to post about various events coming up,history of thier locality,various cultural food spots,upcoming jatras,pujas and even donations.It enables tourists to get information directly from the source as well as provide an opportunity for locals to become financially stable.
+
+Problem Statement:
+This project aims to solve two main problems.
+
+1.The Epidemic of Unreliable Information:
+More often than not tourists are new to the place they are visiting.This makes them susceptible to scammers and false information.Using HamroGatha,tourists can directly access information from the locals.Instead of getting exploited by restaurants that falsely promise an authentic experience of Nepali cuisine and charge them huge amounts of money,they can go to the HamroGatha page,search up authentic Nepalese cuisine,and have an awesome experience at a resonable price.Instead of getting confused about the dates and whereabouts of Jatras they can directly search up 'Macchindranath Jatra 2024','Bisket Jatra 2024','Bhote Jatra 2024' etc in the HamroGatha page and get all thier desired information.
+A website like this makes thier experience smoother.
+
+2.Lack of Marketing:
+HamroGatha provides a platform for locals to market thier bussinesses and locality.Many cultural bussinessess like statue carving,wood carving and traditional 'jhyal' making are dying out because of a lack of customers.Most tourists dont know about these bussinessess as they are not marketed properly.With HamroGatha, locals can easily upload the location of thier shops,the various products that are available and the specialities of those products.This type of website makes it easier to attract customers that are actually interested in thier products.Many great locations are also not marketed properly in Nepal.This is a huge loss for the country that HamroGatha aims to solve.
+
+
+Objectives:
+1.To promote community tourism in Nepal.
+2.To market destinations,events and bussinessess better.
+3.To provide reliable information to tourists.
+4.To promote financial independence of the community as a whole.
+
+Features:
+1.Dedicated spaces called "Communities" for locals to post about their areas.
+2.Login and Sign-Up features.
+3.Ability to join multiple communities and post on their feeds.
+4.A search bar to facilitate finding information about various locations and events.
+
+Tools and Techniques:
+1.HTML,CSS and Javascript
+2.Bootstrap and SASS
+3.PHP and MySQL
+4.Visual Studio Code(Text Editor)
+ 
